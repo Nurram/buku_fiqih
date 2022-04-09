@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901804125117",
+    "project_id": "buku-fiqih-kelas-8",
+    "storage_bucket": "buku-fiqih-kelas-8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901804125117:android:6b8242b528088f8f2280d4",
+        "android_client_info": {
+          "package_name": "com.taufiq.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901804125117-5ab5ol86d30tgn6m1jm0du7diur4njd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATxfqx7bQGGwId7_ShuPb64-BnITS1u2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901804125117-5ab5ol86d30tgn6m1jm0du7diur4njd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

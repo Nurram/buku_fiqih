@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Buku Fiqih Kelas 8</string>
+
+    <string name="welcome_back">Halo</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Masuk</string>
+    <string name="sign_in_u"><u>Masuk</u></string>
+    <string name="sign_up">Daftar</string>
+    <string name="sign_up_u"><u>Daftar</u></string>
+    <string name="incorrect_email_password">Email / Password salah!</string>
+    <string name="sign_up_msg">Daftar dan mulai belajar</string>
+    <string name="email">Alamat email</string>
+    <string name="please_fill">Isi field yang kosong!</string>
+    <string name="enter_valid_email">Masukan email yang valid!</string>
+    <string name="minimum_length_6">Password harus 6 karakter atau lebih!</string>
+    <string name="materi_semester_1">Materi Semester 1</string>
+    <string name="materi_semester_2">Materi Semester 2</string>
+    <string name="quiz">Quiz</string>
+    <string name="logout">Logout</string>
+    <string name="bab_i_sujud_sahwi_sujud_syukur_dan_sujud_tilawah">BAB I: SUJUD SAHWI, SUJUD SYUKUR DAN SUJUD TILAWAH</string>
+    <string name="bab_ii_dengan_zakat_jiwa_dan_harta_menjadi_bersih">BAB II: DENGAN ZAKAT JIWA DAN HARTA MENJADI BERSIH</string>
+    <string name="bab_iii_puasa_fardhu_dan_puasa_sunnah">BAB III: PUASA FARDHU DAN PUASA SUNNAH</string>
+    <string name="bab_iv_dengan_i_tikaf_hati_menjadi_tenteram">BAB IV: DENGAN I’TIKAF HATI MENJADI TENTERAM</string>
+    <string name="bab_v_indahnya_berbagi_dengan_sedekah_hibah_dan_hadiah">BAB V: INDAHNYA BERBAGI DENGAN SEDEKAH, HIBAH DAN HADIAH</string>
+    <string name="bab_vi_ketentuan_haji_dan_umrah">BAB VI: KETENTUAN HAJI DAN UMRAH</string>
+    <string name="bab_vii_ketentuan_makanan_halal_dan_haram">BAB VII: KETENTUAN MAKANAN HALAL DAN HARAM</string>
+    <string name="riwayat_kuis">Riwayat Kuis</string>
+</resources>
